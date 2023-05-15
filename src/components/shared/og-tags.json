@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_shared_og_tags",
+  "info": {
+    "displayName": "OG Tags"
+  },
+  "options": {},
+  "attributes": {
+    "property": {
+      "type": "string",
+      "required": true,
+      "maxLength": 30
+    },
+    "content": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

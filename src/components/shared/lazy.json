@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_shared_lazies",
+  "info": {
+    "displayName": "Lazy",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "lowRes": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "dataSrc": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "alt": {
+      "type": "string"
+    }
+  }
+}
